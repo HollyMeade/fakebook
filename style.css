@@ -1,0 +1,16 @@
+.image{
+    border:5px lightcoral solid;
+    padding:5px;
+}
+.image:hover{
+    border:5px lightseagreen dotted;
+}
+.violet{
+    color:blueviolet;
+}
+.teal{
+    color:teal;
+}
+.blue{
+    color:darkblue;
+}
